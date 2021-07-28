@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikie1
+- 👋 Hi, I’m Victor Mwangi
 - 👀 I’m interested in Development in general currently good in java and Spring Boot.
 - 🌱 I’m currently learning Test Driven Development
 - 💞️ I’m looking to collaborate on ...
