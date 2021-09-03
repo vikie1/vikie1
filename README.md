@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Mwangi
-- 👀 I’m interested in Development in general currently good in java and Spring Boot.
+- 👀 I’m interested in Development in general currently good in java, Spring Boot and android development.
 - 🌱 I’m currently learning Test Driven Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java and spring boot projects
 - 📫 How to reach me mwangivictor52@gmail.com
 
 <!---
