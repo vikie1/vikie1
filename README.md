@@ -16,9 +16,9 @@ https://pbvictor.herokuapp.com <br><br>
 `$ ps` <br>
 <pre>
 PID     TTY             TIME      CMD <br>
-921     git/vikie1      current   self employed
+921     git/vikie1      current   intern
 </pre>
-`$ notify-send "Looking For a Job"`
+`$ notify-send "Happily providing solutions"`
 
 <!---
 vikie1/vikie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
