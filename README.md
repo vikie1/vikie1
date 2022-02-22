@@ -12,7 +12,7 @@ https://victormwangi.netlify.app <br><br>
 `$ which backend` <br>
 https://pbvictor.herokuapp.com <br><br>
 `$ pwd` <br>
-/remote/Geminid Systems Inc <br><br>
+/git/my-personal-blog<br><br>
 `$ ps` <br>
 <pre>
 PID     TTY             TIME      CMD <br>
