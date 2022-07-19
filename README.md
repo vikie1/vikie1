@@ -1,4 +1,4 @@
-# $ WHOAMI
+# WHO AM I
 - 👋 Hi, I’m Victor Mwangi
 - 👀 I’m interested in Software Development currently good in java, the Spring framework and front-end development.
 - ✨ My current development stack is <strong>SPUR</strong> -> <b>S</b>pring boot <b>P</b>ostgresql <b>U</b>nix-like systems(mostly LINUX) <b>R</b>eact
