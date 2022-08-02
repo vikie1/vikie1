@@ -17,7 +17,7 @@ https://learnfromvictor.netlify.app <br><br>
 `$ ps` <br>
 <pre>
 PID     TTY             TIME      CMD <br>
-921     git/vikie1      current   intern
+921     git/vikie1      current   personal-projects
 </pre>
 `$ notify-send "Happy when providing solutions"`
 
