@@ -10,7 +10,7 @@
 `$ which portfolio` <br>
 https://victormwangi.netlify.app <br><br>
 `$ which backend` <br>
-https://pbvictor.herokuapp.com <br><br>
+https://web-production-2b5d.up.railway.app <br><br>
 `$ pwd` <br>
 /git/my-personal-blog<br>
 https://learnfromvictor.netlify.app <br><br>
